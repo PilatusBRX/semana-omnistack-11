@@ -62,7 +62,7 @@ Veja em [backend/README.md](./backend) para informações sobre o Backend e arqu
 
 Veja em [frontend/README.md](./frontend) para informações sobre o Frontend e os padrões. O Frontend desenvolvido no Dia 3 (com o [desafio](DESAFIOS.md) feito) ficou assim:
 
-<img align="center" src="./screenshot/frontend.gif"></img>
+<img align="center" src="./screenshot/web.gif"></img>
 
 ## Mobile
 
@@ -74,7 +74,7 @@ O App Mobile (React Native) desenvolvido:
 
 Para testar a API do DevRadar, baixe e instale o [Insomnia](https://insomnia.rest/download/):
 
-<img align="center" src="./screenshot/imsonia.gif"></img>
+<img align="center" src="./screenshot/insomnia.gif"></img>
 
 ## Licença
 
