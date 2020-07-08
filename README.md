@@ -1,4 +1,4 @@
-<img src="../screenshot/semana-omnistac-11.png" align="center"></img>
+<img src="./screenshot/semana-omnistac-11.png" align="center"></img>
 
 <h1 align="center">Semana Omnistack 11</h1>
 <p align="center">Projeto <strong>Be The Hero</strong> desenvolvido durante a Semana Omnistack 11 da Rocketseat</p>
@@ -62,19 +62,19 @@ Veja em [backend/README.md](./backend) para informações sobre o Backend e arqu
 
 Veja em [frontend/README.md](./frontend) para informações sobre o Frontend e os padrões. O Frontend desenvolvido no Dia 3 (com o [desafio](DESAFIOS.md) feito) ficou assim:
 
-<img align="center" src="../screenshot/frontend.gif"></img>
+<img align="center" src="./screenshot/frontend.gif"></img>
 
 ## Mobile
 
 O App Mobile (React Native) desenvolvido:
 
-<img align="center" src="../screenshot/mobile.gif"></img>
+<img align="center" src="./screenshot/mobile.gif"></img>
 
 ## Imnsonia
 
 Para testar a API do DevRadar, baixe e instale o [Insomnia](https://insomnia.rest/download/):
 
-<img align="center" src="../screenshot/imsonia.gif"></img>
+<img align="center" src="./screenshot/imsonia.gif"></img>
 
 ## Licença
 
